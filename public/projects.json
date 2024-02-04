@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Pixelize",
+    "image": "/images/project1.png",
+    "intro": "Photo fetching site that gets back real user images with data provided from Unsplash API",
+    "src": "https://glittery-profiterole-240b3b.netlify.app"
+  },
+
+  {
+    "title": "Footy Profiles",
+    "image": "/images/project2.png",
+    "intro": "Retreives data about the the worlds top soccer teams and players from all across Europe",
+    "src": "https://footy-profiles.netlify.app"
+  },
+
+  {
+    "title": "Metro Insights",
+    "image": "/images/project3.png",
+    "intro": "A custom api that gets real time data about the world's most famous cities and what they offer",
+    "src": "https://metro-insights.netlify.app"
+  },
+
+  {
+    "title": "Kicks Culture",
+    "image": "/images/project4.png",
+    "intro": "Sneaker e-commerce store with login and cart functionality that stores users information",
+    "src": "https://kicks-culture-sneaker-store.onrender.com"
+  }
+]
